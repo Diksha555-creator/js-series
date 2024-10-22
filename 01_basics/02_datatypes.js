@@ -7,3 +7,24 @@ console.log(3
     3)  //code readibility should be high
 
     console.log("Diksha")
+
+    let name="diksha"
+    let isLoggedIn=false
+    let state=null;
+    let age=18
+
+    //number => 2 ^ 53
+    // bigint => very big num
+    //string => " "
+    //boolean=> true/false
+    //null=> standalone value
+    //undefined
+    //symbol => whwn talking about unique
+
+    //object
+
+    console.log(typeof"diksha");
+    console.log(typeof age);
+    console.log(typeof undefined);
+    console.log(typeof null);
+    
