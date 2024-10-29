@@ -18,3 +18,7 @@ console.log(gamename.indexOf('i'));
 const newString=gamename.substring(0,4)
 console.log(newString);
 
+const anotherString=gamename.slice(-8,4)
+console.log(anotherString);
+
+
