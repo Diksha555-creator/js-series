@@ -21,4 +21,17 @@ console.log(newString);
 const anotherString=gamename.slice(-8,4)
 console.log(anotherString);
 
+const newsstringone="   Diksha   "
+console.log(newsstringone);
+console.log(newsstringone.trim());
+
+const url="https://Dikshaa.com/diksha%20sagar"
+console.log(url.replace('%20','-'));
+console.log(url.includes('Diksha'));
+console.log(url.includes('sundar'));
+
+console.log(gamename.split('-'));
+
+
+
 
