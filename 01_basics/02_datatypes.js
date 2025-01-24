@@ -13,13 +13,14 @@ console.log(3
     let state=null;
     let age=18
 
-    //number => 2 ^ 53
+    //types of datatypes:
+    //number => 2 ^ 53 which is the range of num
     // bigint => very big num
     //string => " "
     //boolean=> true/false
     //null=> standalone value
     //undefined
-    //symbol => whwn talking about unique
+    //symbol => when talking about unique
 
     //object
 
